@@ -2,8 +2,8 @@
 
 ### `$ whoami`
 
-- 📊 Barchelor Degree in [Statistics and Informatics for business, finance and Insurance](https://corsi.units.it/ec21/descrizione-corso) at the [University of Trieste](https://www.units.it/)
-- 💻 Currently enrolled in the Master Degree in [Data Science and Scientific Computing](https://corsi.units.it/dssc/en) at the [University of Trieste](https://www.units.it/)
+- 📊 Bachelor Degree in [Statistics and Informatics for Business, Finance and Insurance](https://corsi.units.it/ec21/descrizione-corso) at the [University of Trieste](https://portale.units.it/it)
+- 💻 Currently enrolled in the Master Degree in [Data Science and Scientific Computing](https://corsi.units.it/dssc/en) at the [University of Trieste](https://portale.units.it/it)
 - 👨🏻‍💻 Currently working as intern at [AREA Science Park](https://www.areasciencepark.it/) in the [RIT Department](https://www.areasciencepark.it/piattaforme-tecnologiche-update-2023/rit/)
 - 🐧 Linux enthusiast
 
