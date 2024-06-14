@@ -6,7 +6,7 @@
 - 💻 Currently enrolled in the Master Degree in [Data Science and Scientific Computing](https://dssc.units.it/) at the [University of Trieste](https://portale.units.it/it)
 - 👨🏻‍💻 I am currently working on my master's thesis at [AREA Science Park](https://www.areasciencepark.it/) in the [RIT Department](https://www.areasciencepark.it/piattaforme-tecnologiche-update-2023/rit/). \
   My work focuses on <img src="./images/docker.png" alt="Docker" height="20"/> containerization and  <img src="./images/kubernetes.png" alt="Kubernetes" height="20"/>  Kubernetes orchestration.
-- <img src="./images/tux.png" alt="Linux" height="20"/> Linux enthusiast
+- <img src="./images/gnu.png" alt="Linux" height="22"/><img src="./images/tux.png" alt="Linux" height="22"/> GNU/Linux enthusiast
 
 ### 📫 How to reach me: 
 
