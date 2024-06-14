@@ -22,7 +22,7 @@
 ### 🤔 Some of the repositories I'm more proud of:
 
 - [![Static Badge](https://img.shields.io/badge/dotfiles-always%20updating-dotfilesbadge?logo=linux&color=orange)](https://github.com/IsacPasianotto/dotfiles) Some of my configuration files I use on my computer
-- ![Static Badge](https://img.shields.io/badge/playground-evolving%20%26%20updating-evolvging%20%26%20updating?logo=Kubernetes&logoColor=white&color=orange) Vagrant based system to spawn a ready to use multi-node Kubernetes/Slurm VMs cluster for testing purposes.
+- [![Static Badge](https://img.shields.io/badge/playground-evolving%20%26%20updating-evolvging%20%26%20updating?logo=Kubernetes&logoColor=white&color=orange)](https://github.com/IsacPasianotto/playground) Vagrant based system to spawn a ready to use multi-node Kubernetes/Slurm VMs cluster for testing purposes.
 - [![Static Badge](https://img.shields.io/badge/Reversi--game-completed-reversigame?logo=mind)](https://github.com/IsacPasianotto/Reversi-game) A Java GUI implementation of the reversi board game
 - [![Static Badge](https://img.shields.io/badge/2048--DRL-completed-2048DRL?logo=mind)](https://github.com/IsacPasianotto/2048-DRL) A Deep Reinforcement Learning approach to solve the 2048 game
 <!-- - [![Static Badge](https://img.shields.io/badge/HPC%20exam-completed-hpcbadge?logo=mind)](https://github.com/IsacPasianotto/foundations_of_HPC-assignment) A parallel implementation of the [Game of  Life](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life) using hybrid MPI-OpenMP and a benchmark of the cluster, done for the High Performance Computing exam at the University. -->
